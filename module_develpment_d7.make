@@ -32,11 +32,11 @@ projects[menu_magic][download][type] = git
 #projects[menu_magic][download][revision] = "7.x-complete"
 projects[menu_magic][download][url] = git://github.com/Lullabot/menu_magic.git
 
-projects[capn_hook][type] = module
-projects[capn_hook][subdir] = custom
-projects[capn_hook][download][type] = git
-projects[capn_hook][download][revision] = "7.x"
-projects[capn_hook][download][url] = git://github.com/Lullabot/capn_hook.git
+projects[captain][type] = module
+projects[captain][subdir] = custom
+projects[captain][download][type] = git
+projects[captain][download][revision] = "7.x"
+projects[captain][download][url] = git://github.com/Lullabot/captain.git
 
 projects[form_fun][type] = module
 projects[form_fun][subdir] = custom
