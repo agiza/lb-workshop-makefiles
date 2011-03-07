@@ -29,7 +29,7 @@ projects[databasics][download][url] = git://github.com/Lullabot/databasics.git
 projects[menu_magic][type] = module
 projects[menu_magic][subdir] = custom
 projects[menu_magic][download][type] = git
-#projects[menu_magic][download][revision] = "7.x-complete"
+projects[menu_magic][download][revision] = "7.x-complete"
 projects[menu_magic][download][url] = git://github.com/Lullabot/menu_magic.git
 
 projects[captain][type] = module
